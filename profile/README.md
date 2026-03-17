@@ -6,7 +6,7 @@
 
 ## Sobre
 
-O **InfraLivre** é uma iniciativa voltada à construção de um marco jurídico adequado para o software livre no Brasil.
+O **InfraLivre** é uma iniciativa voltada à construção de um marco jurídico adequado para o software livre e de código aberto no Brasil.
 
 A proposta parte de um diagnóstico objetivo: a infraestrutura digital moderna depende profundamente de software livre, mas o ordenamento jurídico atual não foi concebido para lidar com sua natureza descentralizada, colaborativa e, muitas vezes, voluntária.
 
