@@ -1,77 +1,79 @@
 # InfraLivre
 
-**Por uma Infraestrutura Digital Livre, Aberta e Segura**
+**Em defesa de uma Infraestrutura Digital Livre, Aberta e Segura**
 
 ---
 
 ## Sobre
 
-O **InfraLivre** é uma iniciativa voltada à construção de um marco jurídico adequado para o software livre e de código aberto no Brasil.
+O **InfraLivre** é uma iniciativa para construir um marco jurídico adequado ao software livre e de código aberto no Brasil.
 
-A proposta parte de um diagnóstico objetivo: a infraestrutura digital moderna depende profundamente de software livre, mas o ordenamento jurídico atual não foi concebido para lidar com sua natureza descentralizada, colaborativa e, muitas vezes, voluntária.
-
-Essa incompatibilidade tem gerado uma crescente insegurança jurídica para desenvolvedores, empresas e instituições.
+Parte de um diagnóstico simples: a infraestrutura digital moderna depende de software livre, mas o ordenamento jurídico atual não foi concebido para sua natureza descentralizada, colaborativa e, muitas vezes, voluntária — o que gera insegurança jurídica crescente.
 
 ---
 
 ## Problema
 
-O software livre não se encaixa nos modelos tradicionais de regulação, que pressupõem:
+Modelos regulatórios tradicionais presumem:
 
 * entidades centralizadas
-* controle direto sobre o uso do produto
-* responsabilidade claramente atribuível
+* controle sobre o uso
+* responsabilidade diretamente atribuível
 
-Na prática, isso resulta em:
+No software livre, isso frequentemente não existe.
 
-* atribuição de responsabilidades sem controle técnico correspondente
-* exigências legais impossíveis de cumprir
-* risco jurídico desproporcional para mantenedores e contribuidores
+Resultado:
 
-Com o avanço da regulação digital, esse cenário tende a se intensificar.
+* responsabilidades sem controle técnico correspondente
+* exigências juridicamente impostas, mas tecnicamente inviáveis
+* risco desproporcional para mantenedores e contribuidores
 
 ---
 
-## Risco Sistêmico
+## Risco
 
-A questão não é pontual.
+O software livre é base de sistemas operacionais, redes, servidores e serviços críticos.
 
-Grande parte da infraestrutura digital — incluindo sistemas operacionais, redes, servidores e serviços críticos — depende de software livre.
-
-A ausência de um enquadramento jurídico adequado pode levar a:
+Sem enquadramento jurídico adequado, há risco de:
 
 * retração de contribuições
-* abandono de projetos essenciais
-* insegurança para empresas e órgãos públicos
-* distorções regulatórias no uso dessas tecnologias
-
-Em cenários extremos, pode comprometer a continuidade e a confiabilidade de sistemas amplamente utilizados.
+* insegurança para empresas e setor público
+* fragilização progressiva da infraestrutura digital
 
 ---
 
 ## Proposta
 
-O InfraLivre propõe a construção de um **Marco Jurídico do Software Livre e de Código Aberto**, baseado em princípios como:
+Construção de um **Marco Jurídico do Software Livre e de Código Aberto**, com foco em:
 
-* reconhecimento da sua natureza livre e aberta
+* reconhecimento da natureza descentralizada
 * proteção ao voluntariado tecnológico
 * impossibilidade técnica como limite regulatório
-* separação entre desenvolvimento e operação
+* separação entre desenvolvimento e uso
 * sustentabilidade do ecossistema
-
-O objetivo não é ausência de regulação, mas sim uma regulação compatível com a realidade técnica e social do software livre.
 
 ---
 
-## Estrutura do Repositório
+## Repositórios
 
-```
-/manifesto          # Manifesto público da iniciativa
-/projeto-de-lei     # Proposta legislativa em desenvolvimento
-/docs               # Documentação complementar
-/governanca         # Modelo de organização e tomada de decisão
-/infralivre         # Código-fonte do site oficial
-```
+Este projeto está organizado em dois repositórios principais:
+
+### `infralivre`
+
+Repositório institucional do movimento:
+
+* manifesto
+* site oficial
+* documentação geral
+* diretrizes de contribuição
+
+### `projeto-de-lei`
+
+Repositório técnico-jurídico:
+
+* construção da proposta legislativa
+* artigos, princípios e estrutura legal
+* discussões e revisões jurídicas
 
 ---
 
@@ -82,72 +84,30 @@ A iniciativa é aberta à colaboração.
 Contribuições podem incluir:
 
 * sugestões ao manifesto
-* propostas de ajustes jurídicos
+* propostas jurídicas
 * análises técnicas
-* revisão de texto e clareza
-* estudos e dados complementares
+* revisão de conteúdo
 
-Antes de contribuir, leia:
-
-* `CONTRIBUTING.md`
-* `GOVERNANCE.md`
+Consulte `CONTRIBUTING.md` para orientações.
 
 ---
 
-## Governança
-
-O projeto segue um modelo de governança simples e transparente, baseado em:
-
-* revisão aberta de contribuições
-* registro público de decisões
-* evolução incremental dos documentos
-
-O objetivo é garantir consistência, qualidade técnica e legitimidade.
-
----
-
-## Público-Alvo
-
-O InfraLivre dialoga com:
-
-* desenvolvedores e mantenedores
-* empresas de tecnologia
-* juristas e acadêmicos
-* formuladores de políticas públicas
-
----
-
-## Estado do Projeto
+## Estado
 
 Em fase inicial de estruturação.
 
-Próximos passos:
+Foco atual:
 
-* consolidação do manifesto
-* desenvolvimento da proposta legislativa
-* publicação do site oficial
-* formação da base inicial de apoiadores
-
----
-
-## Licença
-
-Este repositório é disponibilizado sob licença livre, permitindo uso, modificação e redistribuição, conforme definido nos arquivos de licença incluídos.
+* consolidar o manifesto
+* estruturar o projeto de lei
+* preparar o lançamento público
 
 ---
 
-## Contato
+## Observação
 
-Em breve.
+O InfraLivre não propõe ausência de regulação.
 
-Até lá, utilize as *issues* do repositório para discussões e sugestões.
-
----
-
-## Observação Final
-
-O InfraLivre não é um projeto contra empresas, contra regulação ou contra inovação.
-
-É uma iniciativa para garantir que a base tecnológica que sustenta a economia digital no Brasil, possa continuar existindo com segurança, previsibilidade e sustentabilidade.
+Propõe uma regulação compatível com a realidade técnica do software livre — garantindo segurança jurídica, previsibilidade e continuidade da infraestrutura digital.
 
 ---
